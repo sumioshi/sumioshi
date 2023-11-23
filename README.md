@@ -2,8 +2,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/43658223/285302839-190ecbea-dd09-45ad-baa3-5d0a4d70f0f3.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=shades-of-purple&hide_border=true&locale=pt_BR&mode=weekly"/>
  </div>
