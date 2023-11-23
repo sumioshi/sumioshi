@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:50px" width=100% src="https://user-images.githubusercontent.com/43658223/285301870-af6fccdb-b217-43e8-a6b7-3384eb876903.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/43658223/285302839-190ecbea-dd09-45ad-baa3-5d0a4d70f0f3.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
