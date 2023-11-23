@@ -1,12 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/sumioshi/sumioshi/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/43658223/285301870-af6fccdb-b217-43e8-a6b7-3384eb876903.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=shades-of-purple&hide_border=true&locale=pt_BR&mode=weekly"/>
-<img width=40% align="center" src="https://github-readme-stats-git-main-rodrigo-sumioshi.vercel.app/api/top-langs/?username=sumioshi&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
