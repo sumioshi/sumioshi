@@ -21,6 +21,7 @@ Produtos vivos em que trabalho ou construí — abre e usa:
 | 🤖 [Lasy Agent](https://agent.lasy.ai/lp) | Funcionários de IA pra pequenos negócios: atendimento, agenda e cobrança pelo WhatsApp |
 | 💳 [VyntrixPay](https://vyntrixpay.com) | Gateway de pagamentos inteligente: cartão, Pix, boleto, antifraude e conciliação automática |
 | 🔮 [Vedic](https://appvedic.com) | App de compatibilidade afetiva por astrologia védica — swipe, match e mapa de sinastria |
+| 🏠 [Pro Service](https://tryproservice.com) | Marketplace de serviços residenciais nos EUA: profissionais verificados, pagamento em escrow e assistente de IA |
 | 🏷️ [PromoBot](https://ofertasbot.com) | Monitora Kabum e Terabyte 24/7 e posta ofertas no Telegram já com link de afiliado |
 | 📚 [eBookGenerator](https://ebookgenerator.dev) | SaaS de geração de eBooks com IA (Claude + structured outputs) |
 | 🌐 [rodrigosumioshi.com](https://rodrigosumioshi.com) | Meu portfólio |
