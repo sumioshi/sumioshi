@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rodrigo%20Sumioshi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=FullStack%20AI%20Developer&descSize=18&descAlignY=52" />
+<img width="100%" src="assets/neural-header.svg" alt="Rodrigo Sumioshi — FullStack AI Developer" />
 
 <a href="https://github.com/sumioshi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Construo+produtos+onde+IA+%C3%A9+mat%C3%A9ria-prima;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Cloudflare;Sandboxes%2C+filas+e+agentes+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+inicializando+rede+neural...+ok;%3E+carregando+sandboxes+isolados...+ok;%3E+conectando+Anthropic+%C2%B7+OpenAI+%C2%B7+Gemini...+ok;%3E+sistema+pronto.+bem-vindo+ao+meu+perfil+%F0%9F%A4%96" alt="boot sequence" />
 </a>
 
 </div>
 
-## 🧑‍💻 Sobre
+## 🧠 Sobre
 
 Desenvolvedor **FullStack AI** na [Lasy AI](https://lasy.ai) — plataforma onde usuários criam aplicações web inteiras através de prompts. Meu dia a dia: arquitetura de **sandboxes isolados** com Cloudflare Workers, **processamento assíncrono** com filas (60s → 5-10s, 85% → 99% de sucesso) e integração com **Anthropic, OpenAI e Gemini**.
 
@@ -47,12 +47,34 @@ Desenvolvedor **FullStack AI** na [Lasy AI](https://lasy.ai) — plataforma onde
 
 > 📁 Estudos e projetos de curso moram em [sumioshi-vault](https://github.com/sumioshi-vault) — histórico preservado, perfil limpo.
 
+## 🐍 A cobra come meus commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake.svg" />
+</picture>
+
+</div>
+
+## 🏙️ Contribuições em 3D
+
+<div align="center">
+
+<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+</div>
+
 ## 📊 Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumioshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumioshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20dos%20%C3%BAltimos%2030%20dias" />
 
 </div>
 
@@ -63,6 +85,6 @@ Desenvolvedor **FullStack AI** na [Lasy AI](https://lasy.ai) — plataforma onde
 <a href="https://www.linkedin.com/in/rodrigosumioshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.rodrigosumioshi.com"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>

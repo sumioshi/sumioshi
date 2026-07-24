@@ -1,0 +1,171 @@
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: url(#bgGrad); }
+    .grid-line { stroke: #1a2b3c; stroke-width: 1; opacity: 0.35; }
+    .node { fill: #0d1b2a; stroke: #58a6ff; stroke-width: 1.5; }
+    .node-core { fill: #58a6ff; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    .pulse.d1 { animation-delay: .3s; }
+    .pulse.d2 { animation-delay: .6s; }
+    .pulse.d3 { animation-delay: .9s; }
+    .pulse.d4 { animation-delay: 1.2s; }
+    .pulse.d5 { animation-delay: 1.5s; }
+    @keyframes pulse {
+      0%, 100% { opacity: .55; }
+      50% { opacity: 1; }
+    }
+    .glow { animation: glow 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    .glow.d1 { animation-delay: .4s; }
+    .glow.d2 { animation-delay: .8s; }
+    .glow.d3 { animation-delay: 1.2s; }
+    @keyframes glow {
+      0%, 100% { r: 3; opacity: .8; }
+      50% { r: 5; opacity: 1; }
+    }
+    .syn { stroke: #2e4a66; stroke-width: 1.2; }
+    .flow { stroke: #58a6ff; stroke-width: 1.6; stroke-linecap: round; stroke-dasharray: 6 90; animation: flow 3s linear infinite; }
+    .flow.f1 { animation-delay: 0s; }
+    .flow.f2 { animation-delay: .5s; }
+    .flow.f3 { animation-delay: 1s; }
+    .flow.f4 { animation-delay: 1.5s; }
+    .flow.f5 { animation-delay: 2s; }
+    .flow.f6 { animation-delay: 2.5s; }
+    .flow.green { stroke: #3fb950; }
+    .flow.purple { stroke: #bc8cff; }
+    @keyframes flow {
+      from { stroke-dashoffset: 96; }
+      to { stroke-dashoffset: 0; }
+    }
+    .title { font: 800 44px 'Segoe UI', Ubuntu, sans-serif; fill: url(#titleGrad); letter-spacing: 2px; }
+    .subtitle { font: 500 16px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 6px; }
+    .term-text { font: 500 14px 'Cascadia Code', 'Fira Code', monospace; fill: #3fb950; }
+    .term-prompt { font: 500 14px 'Cascadia Code', 'Fira Code', monospace; fill: #58a6ff; }
+    .typing { overflow: hidden; }
+    .typing rect.reveal { animation: reveal 4s steps(34) infinite; }
+    @keyframes reveal {
+      0% { x: 250; }
+      55% { x: 610; }
+      90% { x: 610; }
+      100% { x: 250; }
+    }
+    .cursor { animation: blink 1s step-end infinite; fill: #3fb950; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .particle { fill: #58a6ff; opacity: .5; }
+    .float { animation: float 7s ease-in-out infinite; }
+    .float.p2 { animation-delay: 1.5s; animation-duration: 9s; }
+    .float.p3 { animation-delay: 3s; animation-duration: 8s; }
+    .float.p4 { animation-delay: 4.5s; animation-duration: 10s; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); opacity: .25; }
+      50% { transform: translateY(-14px); opacity: .8; }
+    }
+    .scan { animation: scan 6s linear infinite; }
+    @keyframes scan {
+      0% { transform: translateY(-40px); opacity: 0; }
+      15% { opacity: .5; }
+      85% { opacity: .5; }
+      100% { transform: translateY(360px); opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".55" stop-color="#0f1b2d"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="250" y1="120" x2="720" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset=".5" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#58a6ff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="900" height="320" rx="12"/>
+
+  <!-- grid -->
+  <g>
+    <line class="grid-line" x1="0" y1="80" x2="900" y2="80"/>
+    <line class="grid-line" x1="0" y1="160" x2="900" y2="160"/>
+    <line class="grid-line" x1="0" y1="240" x2="900" y2="240"/>
+    <line class="grid-line" x1="150" y1="0" x2="150" y2="320"/>
+    <line class="grid-line" x1="300" y1="0" x2="300" y2="320"/>
+    <line class="grid-line" x1="450" y1="0" x2="450" y2="320"/>
+    <line class="grid-line" x1="600" y1="0" x2="600" y2="320"/>
+    <line class="grid-line" x1="750" y1="0" x2="750" y2="320"/>
+  </g>
+
+  <!-- scanline -->
+  <rect class="scan" width="900" height="40" fill="url(#scanGrad)"/>
+
+  <!-- neural network (left) -->
+  <g transform="translate(30, 40)">
+    <!-- synapses -->
+    <path class="syn" d="M20 40 L90 20"/>  <path class="flow f1" d="M20 40 L90 20"/>
+    <path class="syn" d="M20 40 L90 90"/>  <path class="flow f3 green" d="M20 40 L90 90"/>
+    <path class="syn" d="M20 120 L90 20"/> <path class="flow f5 purple" d="M20 120 L90 20"/>
+    <path class="syn" d="M20 120 L90 90"/> <path class="flow f2" d="M20 120 L90 90"/>
+    <path class="syn" d="M20 200 L90 90"/> <path class="flow f4 green" d="M20 200 L90 90"/>
+    <path class="syn" d="M20 200 L90 160"/><path class="flow f6" d="M20 200 L90 160"/>
+    <path class="syn" d="M20 40 L90 160"/> <path class="flow f2 purple" d="M20 40 L90 160"/>
+    <path class="syn" d="M90 20 L160 55"/> <path class="flow f3" d="M90 20 L160 55"/>
+    <path class="syn" d="M90 90 L160 55"/> <path class="flow f1 green" d="M90 90 L160 55"/>
+    <path class="syn" d="M90 90 L160 125"/><path class="flow f5" d="M90 90 L160 125"/>
+    <path class="syn" d="M90 160 L160 125"/><path class="flow f4 purple" d="M90 160 L160 125"/>
+    <path class="syn" d="M160 55 L215 90"/> <path class="flow f6 green" d="M160 55 L215 90"/>
+    <path class="syn" d="M160 125 L215 90"/><path class="flow f2" d="M160 125 L215 90"/>
+
+    <!-- input layer -->
+    <circle class="node pulse" cx="20" cy="40" r="9"/>   <circle class="node-core glow" cx="20" cy="40" r="3"/>
+    <circle class="node pulse d2" cx="20" cy="120" r="9"/><circle class="node-core glow d1" cx="20" cy="120" r="3"/>
+    <circle class="node pulse d4" cx="20" cy="200" r="9"/><circle class="node-core glow d2" cx="20" cy="200" r="3"/>
+    <!-- hidden 1 -->
+    <circle class="node pulse d1" cx="90" cy="20" r="9"/> <circle class="node-core glow d3" cx="90" cy="20" r="3"/>
+    <circle class="node pulse d3" cx="90" cy="90" r="9"/> <circle class="node-core glow" cx="90" cy="90" r="3"/>
+    <circle class="node pulse d5" cx="90" cy="160" r="9"/><circle class="node-core glow d1" cx="90" cy="160" r="3"/>
+    <!-- hidden 2 -->
+    <circle class="node pulse d2" cx="160" cy="55" r="9"/> <circle class="node-core glow d2" cx="160" cy="55" r="3"/>
+    <circle class="node pulse d4" cx="160" cy="125" r="9"/><circle class="node-core glow d3" cx="160" cy="125" r="3"/>
+    <!-- output -->
+    <circle class="node pulse d3" cx="215" cy="90" r="11"/>
+    <circle class="node-core glow d1" cx="215" cy="90" r="4"/>
+  </g>
+
+  <!-- title -->
+  <text class="title" x="280" y="135">RODRIGO SUMIOSHI</text>
+  <text class="subtitle" x="283" y="170">FULLSTACK AI DEVELOPER</text>
+
+  <!-- terminal line with typing -->
+  <g class="typing">
+    <text class="term-prompt" x="283" y="215">$</text>
+    <text class="term-text" x="298" y="215">rodrigo --build "produtos com IA de verdade"</text>
+    <rect class="reveal" x="250" y="200" width="420" height="20" fill="#0f1b2d"/>
+    <rect class="cursor" x="614" y="202" width="8" height="16"/>
+  </g>
+
+  <!-- floating particles -->
+  <circle class="particle float" cx="700" cy="60" r="2.5"/>
+  <circle class="particle float p2" cx="780" cy="120" r="2"/>
+  <circle class="particle float p3" cx="840" cy="70" r="3"/>
+  <circle class="particle float p4" cx="740" cy="220" r="2"/>
+  <circle class="particle float p2" cx="820" cy="260" r="2.5"/>
+  <circle class="particle float p3" cx="660" cy="280" r="2"/>
+
+  <!-- right mini-badges -->
+  <g transform="translate(690, 40)" opacity="0.9">
+    <rect x="0" y="0" width="170" height="26" rx="13" fill="#0d1b2a" stroke="#2e4a66"/>
+    <circle class="node-core glow" cx="16" cy="13" r="3"/>
+    <text x="30" y="17" font-family="'Cascadia Code', monospace" font-size="11" fill="#8b949e">sandboxes · edge</text>
+    <rect x="0" y="36" width="170" height="26" rx="13" fill="#0d1b2a" stroke="#2e4a66"/>
+    <circle class="node-core glow d2" cx="16" cy="49" r="3"/>
+    <text x="30" y="53" font-family="'Cascadia Code', monospace" font-size="11" fill="#8b949e">queues · 6x faster</text>
+    <rect x="0" y="72" width="170" height="26" rx="13" fill="#0d1b2a" stroke="#2e4a66"/>
+    <circle class="node-core glow d3" cx="16" cy="85" r="3"/>
+    <text x="30" y="89" font-family="'Cascadia Code', monospace" font-size="11" fill="#8b949e">agents · mcp · rag</text>
+  </g>
+</svg>
