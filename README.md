@@ -2,9 +2,6 @@
 
 <img width="100%" src="assets/zen-header.svg" alt="Rodrigo Sumioshi — FullStack AI Developer" />
 
-<a href="https://github.com/sumioshi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=E0342C&center=true&vCenter=true&width=600&lines=%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%E2%80%94+consist%C3%AAncia+%C3%A9+poder;sandboxes+isolados+%C2%B7+filas+%C2%B7+agentes+em+produ%C3%A7%C3%A3o;Anthropic+%C2%B7+OpenAI+%C2%B7+Gemini+%C2%B7+MCP;%E6%94%B9%E5%96%84+kaizen+%E2%80%94+melhorar+todo+dia" alt="typing" />
-</a>
 
 </div>
 
@@ -30,25 +27,7 @@ Produtos vivos em que trabalho ou construí — abre e usa:
 
 > Código fechado — produto em operação. Open source: [whatsapp-automation](https://github.com/sumioshi/whatsapp-automation) · estudos antigos em [sumioshi-vault](https://github.com/sumioshi-vault)
 
-## ⚡ Stack
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vue,figma&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,postgres,prisma,redis&theme=dark" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,vercel,githubactions&theme=dark" />
-
-</div>
-
-## 🐍 蛇 · A cobra come meus commits
+## 🗻 Vida em commits
 
 <div align="center">
 
@@ -58,50 +37,9 @@ Produtos vivos em que trabalho ou construí — abre e usa:
   <img alt="snake animation" src="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake.svg" />
 </picture>
 
-</div>
-
-## 🗻 Contribuições em 3D
-
-<div align="center">
-
-<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 </div>
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="185" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumioshi&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumioshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20recente" />
-
-</div>
-
-<!--TTT:START-->
-## 🎮 対戦 · Desafie o Shokunin-bot
-
-Jogo da velha **jogável aqui no README**: você é **匠**, o bot é **日**. Clica numa casa vazia (·),
-confirma a issue que abrir e em ~30 segundos o GitHub Actions processa sua jogada e a resposta do bot.
-
-<div align="center">
-
-| ⛩️ | A | B | C |
-|---|---|---|---|
-| **1** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C00&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C01&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C02&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
-| **2** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C10&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C11&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C12&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
-| **3** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C20&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C21&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C22&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
-
-**Tabuleiro novo — pode começar. Você é 匠.**
-
-🏆 Você (visitantes): **0** · ⛩️ Shokunin-bot: **0** · 🤝 Empates: **0**
-
-[🔁 Recomeçar partida](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7Cnew&body=Bora+de+novo%21+S%C3%B3+clicar+em+%22Create%22.)
-
-</div>
-<!--TTT:END-->
 
 ## 📫 Contato
 
