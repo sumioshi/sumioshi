@@ -90,11 +90,11 @@ confirma a issue que abrir e em ~30 segundos o GitHub Actions processa sua jogad
 
 | ⛩️ | A | B | C |
 |---|---|---|---|
-| **1** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C00&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C01&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C02&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
-| **2** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C10&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C11&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C12&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
+| **1** | **日** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C01&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C02&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
+| **2** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C10&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | **匠** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C12&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
 | **3** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C20&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C21&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C22&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
 
-**Tabuleiro novo — pode começar. Você é 匠.**
+**@sumioshi jogou (2, 2). Sua vez de novo!**
 
 🏆 Você (visitantes): **0** · ⛩️ Shokunin-bot: **0** · 🤝 Empates: **0**
 
