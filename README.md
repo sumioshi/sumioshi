@@ -14,18 +14,21 @@
 
 </div>
 
-## ⛩️ Projetos
+## ⛩️ Em produção
 
-| Projeto | O que é |
+Produtos vivos em que trabalho ou construí — abre e usa:
+
+| Produto | O que é |
 |---|---|
-| 🔒 **radar** | Plataforma de geração de leads locais: varredura no Maps, auditoria de sites, IA gera prévia personalizada + abordagem, CRM e outreach por WhatsApp/email |
-| 🔒 **meet-copilot** | Copiloto de reuniões em tempo real: áudio do sistema → Deepgram → MCP servindo contexto pra Claude/Codex |
-| 🔒 **prediction-market** | Plataforma white-label de mercados de previsão |
-| 📚 [eBookGenerator](https://ebookgenerator.dev) | SaaS de geração de eBooks com IA (Claude + structured outputs), em produção |
-| 📱 [whatsapp-automation](https://github.com/sumioshi/whatsapp-automation) | Coletor 24/7 de conteúdo de grupos de WhatsApp (áudio, vídeo, imagem, texto) via Baileys |
-| 🗄️ [mcp-mssql](https://github.com/sumioshi/mcp-mssql) | MCP server para SQL Server — assistentes de IA falando com banco com segurança |
+| 🧠 [Lasy AI](https://lasy.ai) | Plataforma onde usuários criam aplicações web inteiras com IA — trabalho aqui como FullStack AI (sandboxes, filas, multi-provider) |
+| 🤖 [Lasy Agent](https://agent.lasy.ai/lp) | Funcionários de IA pra pequenos negócios: atendimento, agenda e cobrança pelo WhatsApp |
+| 💳 [VyntrixPay](https://vyntrixpay.com) | Gateway de pagamentos inteligente: cartão, Pix, boleto, antifraude e conciliação automática |
+| 🔮 [Vedic](https://appvedic.com) | App de compatibilidade afetiva por astrologia védica — swipe, match e mapa de sinastria |
+| 🏷️ [PromoBot](https://ofertasbot.com) | Monitora Kabum e Terabyte 24/7 e posta ofertas no Telegram já com link de afiliado |
+| 📚 [eBookGenerator](https://ebookgenerator.dev) | SaaS de geração de eBooks com IA (Claude + structured outputs) |
+| 🌐 [rodrigosumioshi.com](https://rodrigosumioshi.com) | Meu portfólio |
 
-> 🔒 = código privado (produto em operação). 📁 Estudos e projetos de curso moram em [sumioshi-vault](https://github.com/sumioshi-vault).
+> Código fechado — produto em operação. Open source: [whatsapp-automation](https://github.com/sumioshi/whatsapp-automation) · estudos antigos em [sumioshi-vault](https://github.com/sumioshi-vault)
 
 ## ⚡ Stack
 
@@ -76,6 +79,29 @@
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumioshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20recente" />
 
 </div>
+
+<!--TTT:START-->
+## 🎮 対戦 · Desafie o Shokunin-bot
+
+Jogo da velha **jogável aqui no README**: você é **匠**, o bot é **日**. Clica numa casa vazia (·),
+confirma a issue que abrir e em ~30 segundos o GitHub Actions processa sua jogada e a resposta do bot.
+
+<div align="center">
+
+| ⛩️ | A | B | C |
+|---|---|---|---|
+| **1** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C00&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C01&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C02&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
+| **2** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C10&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C11&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C12&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
+| **3** | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C20&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C21&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) | [·](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7C22&body=S%C3%B3+clicar+em+%22Create%22.+A+jogada+entra+sozinha+em+~30s+%E2%80%94+depois+volta+ao+perfil+e+d%C3%A1+refresh.) |
+
+**Tabuleiro novo — pode começar. Você é 匠.**
+
+🏆 Você (visitantes): **0** · ⛩️ Shokunin-bot: **0** · 🤝 Empates: **0**
+
+[🔁 Recomeçar partida](https://github.com/sumioshi/sumioshi/issues/new?title=ttt%7Cnew&body=Bora+de+novo%21+S%C3%B3+clicar+em+%22Create%22.)
+
+</div>
+<!--TTT:END-->
 
 ## 📫 Contato
 

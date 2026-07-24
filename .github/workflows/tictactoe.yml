@@ -1,0 +1,35 @@
+name: tictactoe
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: tictactoe
+  cancel-in-progress: false
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Processa a jogada
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: python3 game/tictactoe.py
+      - name: Commit
+        run: |
+          git config user.name "shokunin-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md game/state.json
+          git diff --cached --quiet || git commit -m "🎮 jogada de @${{ github.event.issue.user.login }}"
+          git pull --rebase origin main
+          git push
+      - name: Fecha a issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} \
+            --comment "⛩️ Jogada processada! Volta ao [tabuleiro](https://github.com/sumioshi) e dá refresh."
