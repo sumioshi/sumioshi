@@ -1,0 +1,51 @@
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .jp { font-family: 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif JP', 'MS Mincho', serif; }
+    .body { font-family: 'Segoe UI', Ubuntu, -apple-system, sans-serif; }
+    .dot { animation: pulse 3s ease-in-out infinite; }
+    .dot.d2 { animation-delay: .7s; }
+    .dot.d3 { animation-delay: 1.4s; }
+    .dot.d4 { animation-delay: 2.1s; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    .bar { animation: grow 4s ease-in-out infinite; transform-origin: 16px 30px; }
+    @keyframes grow { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.85); } }
+  </style>
+
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="900" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11151d"/>
+      <stop offset="1" stop-color="#0d1017"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="898" height="248" rx="14" fill="url(#cardBg)" stroke="#2a3242" stroke-width="1.5"/>
+  <!-- barra vermelha lateral -->
+  <rect class="bar" x="16" y="30" width="4" height="190" rx="2" fill="#e0342c"/>
+
+  <!-- título -->
+  <text class="jp" x="44" y="58" font-size="26" fill="#e0342c">職人</text>
+  <text class="body" x="106" y="56" font-size="19" font-weight="700" fill="#f0f0eb" letter-spacing="3">SOBRE</text>
+  <line x1="106" y1="68" x2="856" y2="68" stroke="#2a3242" stroke-width="1"/>
+
+  <!-- texto principal -->
+  <text class="body" font-size="14.5" fill="#c9d1d9">
+    <tspan x="44" y="98">Desenvolvedor <tspan font-weight="700" fill="#f0f0eb">FullStack AI</tspan> na <tspan font-weight="700" fill="#f0f0eb">Lasy AI</tspan> — plataforma onde usuários criam aplicações web inteiras via prompts.</tspan>
+    <tspan x="44" y="122">Sandboxes isolados com Cloudflare Workers, filas assíncronas (60s → 5-10s · 85% → 99%) e IA multi-provider.</tspan>
+  </text>
+
+  <!-- bullets -->
+  <g class="body" font-size="13.5" fill="#9aa4b2">
+    <rect class="dot" x="44" y="147" width="7" height="7" rx="1.5" fill="#e0342c" transform="rotate(45 47.5 150.5)"/>
+    <text x="62" y="157">Nikkei — vivi no Japão quando criança · <tspan class="jp" fill="#8b949e">職人気質</tspan> (shokunin: ofício levado a sério)</text>
+    <rect class="dot d2" x="44" y="172" width="7" height="7" rx="1.5" fill="#e0342c" transform="rotate(45 47.5 175.5)"/>
+    <text x="62" y="182">Engenharia de Software — Unicesumar</text>
+    <rect class="dot d3" x="44" y="197" width="7" height="7" rx="1.5" fill="#e0342c" transform="rotate(45 47.5 200.5)"/>
+    <text x="62" y="207">Tool calling · Structured outputs · MCP servers · Agentes</text>
+    <rect class="dot d4" x="44" y="222" width="7" height="7" rx="1.5" fill="#e0342c" transform="rotate(45 47.5 225.5)"/>
+    <text x="62" y="232">Ex-líder de desenvolvimento em empresa de BI e IA</text>
+  </g>
+
+  <!-- kanji decorativo à direita -->
+  <text class="jp" x="800" y="215" font-size="110" fill="none" stroke="#1d2432" stroke-width="1.2" opacity=".9">道</text>
+</svg>

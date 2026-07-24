@@ -8,14 +8,11 @@
 
 </div>
 
-## 職人 · Sobre
+<div align="center">
 
-Desenvolvedor **FullStack AI** na [Lasy AI](https://lasy.ai) — plataforma onde usuários criam aplicações web inteiras através de prompts. Meu dia a dia: arquitetura de **sandboxes isolados** com Cloudflare Workers, **processamento assíncrono** com filas (60s → 5-10s, 85% → 99% de sucesso) e integração com **Anthropic, OpenAI e Gemini**.
+<img width="100%" src="assets/about-card.svg" alt="Sobre — FullStack AI na Lasy, Nikkei, Eng. de Software" />
 
-- 🎌 Nikkei — vivi no Japão quando criança; trago o *shokunin* (ofício levado a sério) pro código
-- 🎓 Engenharia de Software — Unicesumar
-- 🤖 Tool calling · Structured outputs · MCP servers · Agentes
-- 🛠️ Ex-líder de desenvolvimento em empresa de BI e IA
+</div>
 
 ## ⛩️ Projetos
 
@@ -72,7 +69,8 @@ Desenvolvedor **FullStack AI** na [Lasy AI](https://lasy.ai) — plataforma onde
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumioshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="185" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumioshi&theme=tokyonight" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumioshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20recente" />
