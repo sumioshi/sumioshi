@@ -6,13 +6,13 @@
   },
   "board": [
     [
-      "B",
+      "",
       "",
       ""
     ],
     [
       "",
-      "P",
+      "",
       ""
     ],
     [
@@ -21,6 +21,6 @@
       ""
     ]
   ],
-  "last": "@sumioshi jogou (2, 2). Sua vez de novo!",
+  "last": "Tabuleiro novo — pode começar. Você é 匠.",
   "over": false
 }
