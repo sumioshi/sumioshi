@@ -2,8 +2,11 @@
 
 <img width="100%" src="assets/zen-header.svg" alt="Rodrigo Sumioshi — FullStack AI Developer" />
 
-
 </div>
+
+Sou **Rodrigo Sumioshi**, desenvolvedor FullStack AI em Balneário Camboriú (SC). Construo produtos com IA, automação de WhatsApp e SaaS em Next.js, TypeScript e Python. Hoje trabalho na **Lasy AI**, na **Zuuuw Real Estates** e na **VibeHub**. Portfólio e contato em **[rodrigosumioshi.com](https://rodrigosumioshi.com)**.
+
+<sub>🇺🇸 FullStack AI developer from Brazil building AI products, WhatsApp automation and SaaS with Next.js, TypeScript and Python. Portfolio: [rodrigosumioshi.com](https://rodrigosumioshi.com)</sub>
 
 <div align="center">
 
@@ -38,8 +41,6 @@ Produtos vivos em que trabalho ou construí — abre e usa:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake-light.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/sumioshi/sumioshi/output/github-snake.svg" />
 </picture>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=sumioshi&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 </div>
 
