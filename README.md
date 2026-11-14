@@ -48,7 +48,7 @@ Produtos vivos em que trabalho ou construí — abre e usa:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rodrigosumioshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.rodrigosumioshi.com"><img src="https://img.shields.io/badge/Portfolio-E0342C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://rodrigosumioshi.com"><img src="https://img.shields.io/badge/Portfolio-E0342C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
